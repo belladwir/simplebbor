@@ -321,6 +321,15 @@ namespace Modul4
             }
         }
 
+        public void clearText()
+        {
+            text_id.Text = "";
+            text_judul.Text = "";
+            text_pengarang.Text = "";
+            text_jumlah.Text = "";
+            textBox1.Text = "";
+        }
+
         String pilih_mhs;
         private void ComboBox_mhs_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -361,6 +370,8 @@ namespace Modul4
                 cmd.ExecuteNonQuery();
                 MessageBox.Show("Berhasil menambahkan peminjaman");
                 refresh();
+                clearText();
+                btn_pinjam.Enabled = false;
             }
             catch(Exception ex)
             {
@@ -405,6 +416,8 @@ namespace Modul4
                 cmd.ExecuteNonQuery();
                 MessageBox.Show("Pengembalian berhasil");
                 refresh();
+                clearText();
+                btn_pengembalian.Enabled = false;
             }
             catch(Exception ex)
             {
