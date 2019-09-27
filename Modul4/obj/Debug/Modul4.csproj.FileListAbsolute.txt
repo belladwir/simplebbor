@@ -1,0 +1,16 @@
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\bin\Debug\Modul4.exe.config
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\bin\Debug\Modul4.exe
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\bin\Debug\Modul4.pdb
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\bin\Debug\MySql.Data.dll
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\bin\Debug\Google.Protobuf.dll
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\bin\Debug\Renci.SshNet.dll
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\bin\Debug\MySql.Data.xml
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\obj\Debug\Modul4.csprojAssemblyReference.cache
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\obj\Debug\Modul4.Form1.resources
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\obj\Debug\Modul4.Properties.Resources.resources
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\obj\Debug\Modul4.csproj.GenerateResource.cache
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\obj\Debug\Modul4.csproj.CoreCompileInputs.cache
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\obj\Debug\Modul4.csproj.CopyComplete
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\obj\Debug\Modul4.exe
+C:\Users\Bella Dwi\source\repos\Modul4\Modul4\obj\Debug\Modul4.pdb
